@@ -1,7 +1,9 @@
+
+![alt text](image.png)
+
 ```markdown
 # Level 6
 
-![alt text](image.png)
 
 The new thing you are seeing is the internet.
 
@@ -54,4 +56,5 @@ As you can see there are 25 bits set to 1, so the mask is **/25**. And that's wh
 
 As you can see, it's sending data out to **163.172.250.12** which is outside of the house.
 
-![alt text](image-2.png)
+
+![alt text](image-1.png)
