@@ -21,7 +21,7 @@ The "Next Hop" IP (the right side of the arrow) must be inside the sender's loca
 
 ## Applying It
 
-Host B1 is connected to interface R2, so they need to be in the same subnet. Also, the network IP — the first 3 parts of the IP — need to be the same.
+"Host B1 is connected to interface R2, so they need to be in the same subnet. This means their IPs must fall inside the exact same block range based on our subnet math!"
 
 Now for the machine of Host B, we don't know where the data is going, so just send it to R2.
 
