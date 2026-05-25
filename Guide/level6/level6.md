@@ -1,7 +1,7 @@
 
 ![alt text](image.png)
 
-```markdown
+
 # Level 6
 
 
@@ -55,6 +55,5 @@ As you can see there are 25 bits set to 1, so the mask is **/25**. And that's wh
 **57.124.34.128/25**
 
 As you can see, it's sending data out to **163.172.250.12** which is outside of the house.
-
 
 ![alt text](image-1.png)
