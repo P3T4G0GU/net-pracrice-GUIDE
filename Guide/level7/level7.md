@@ -27,9 +27,9 @@ So now just put each mask at **/28**, then fix each IP.
 
 ## Assigning the IPs
 
-**R11** has a fixed IP, so we use that for A1 and just change the last part (the host IP) to anything in [1-14]. I'm choosing 2:
+**R11** has a fixed IP, so we use that for A1 and just change the last part (the host IP) to anything in [1-14]. I'm choosing 12:
 
-- A1 → `118.198.14.2`
+- A1 → `118.198.14.12`
 
 **R12** has a fixed IP, and 254 is one of the last usable ones, so we just change R21's IP to 253 and it's fine:
 
